@@ -1,0 +1,16 @@
+# React
+node_modules/
+build/
+.env
+
+# Spring
+/build/
+.gradle/
+out/
+*.iml
+.idea/
+application.yml
+
+# macOS, log, etc.
+.DS_Store
+*.log
